@@ -1,5 +1,5 @@
 # Project on TMP-week-4
-A developed Page of a figma design
+A developed Page of Html tags in a tabular form
 <br />
 
 ## Built with
